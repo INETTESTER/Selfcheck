@@ -4,8 +4,8 @@
 ##########################################################################
 ##########################################################################
 ##########################################################################
-                     API="template" 
-                     google_sheet="https://docs.google.com/spreadsheets/d/1H7UgGtAy3JKvulLqGXVm5zeNq1FdNKonMxxBETQtjXQ/edit?gid=1610289956#gid=1610289956" 
+                     API="1.createAssessment" 
+                     google_sheet="https://docs.google.com/spreadsheets/d/1mcL7CWvV3yy6azDR7uobmzn8ltjoebNnNIxFOttZBeo/edit?gid=918365567#gid=918365567" 
                      id="1"                 #เปลี่ยน id ทุกครั้งที่ยิง
                      user="1";              #จำนวนผู้ใช้งาน
                      duration="1";          #หน่วยวินาที
