@@ -1,0 +1,33 @@
+2025-10-16 10:12:24,432 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-10-16 10:12:24,460 INFO o.a.j.JMeter: Loading user properties from: C:\apache-jmeter-5.6.2\bin\user.properties
+2025-10-16 10:12:24,461 INFO o.a.j.JMeter: Loading system properties from: C:\apache-jmeter-5.6.2\bin\system.properties
+2025-10-16 10:12:24,462 INFO o.a.j.JMeter: Setting JMeter property: user=1
+2025-10-16 10:12:24,462 INFO o.a.j.JMeter: Setting JMeter property: rampup=1
+2025-10-16 10:12:24,470 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2025-10-16 10:12:24,470 INFO o.a.j.JMeter: Version 5.6.2
+2025-10-16 10:12:24,471 INFO o.a.j.JMeter: java.version=15
+2025-10-16 10:12:24,471 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-10-16 10:12:24,471 INFO o.a.j.JMeter: os.name=Windows Server 2019
+2025-10-16 10:12:24,471 INFO o.a.j.JMeter: os.arch=amd64
+2025-10-16 10:12:24,471 INFO o.a.j.JMeter: os.version=10.0
+2025-10-16 10:12:24,471 INFO o.a.j.JMeter: file.encoding=Cp1252
+2025-10-16 10:12:24,471 INFO o.a.j.JMeter: java.awt.headless=true
+2025-10-16 10:12:24,471 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-10-16 10:12:24,471 INFO o.a.j.JMeter: Available Processors =8
+2025-10-16 10:12:24,483 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-10-16 10:12:24,483 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-10-16 10:12:24,483 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter-5.6.2
+2025-10-16 10:12:24,483 INFO o.a.j.JMeter: user.dir  =C:\Users\Administrator\Desktop\NCD Selfcheck_JM_LT
+2025-10-16 10:12:24,484 INFO o.a.j.JMeter: PWD       =C:\Users\Administrator\Desktop\NCD Selfcheck_JM_LT
+2025-10-16 10:12:24,487 INFO o.a.j.JMeter: IP: 10.0.0.18 Name: SQA-test09 FullName: SQA-test09
+2025-10-16 10:12:24,512 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'C:\Users\Administrator\Desktop\NCD Selfcheck_JM_LT\report\16-10-25\1_createAssessment-1-1'
+2025-10-16 10:12:24,513 ERROR o.a.j.JMeter: An error occurred: 
+org.apache.jmeter.report.config.ConfigurationException: The file C:\Users\Administrator\Desktop\NCD Selfcheck_JM_LT\.\main\script.jmx doesn't exist or can't be opened
+	at org.apache.jmeter.JMeter.runNonGui(JMeter.java:950) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.JMeter.startNonGui(JMeter.java:940) ~[ApacheJMeter_core.jar:5.6.2]
+	at org.apache.jmeter.JMeter.start(JMeter.java:508) [ApacheJMeter_core.jar:5.6.2]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:564) ~[?:?]
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:259) [ApacheJMeter.jar:5.6.2]
