@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1760586045279,489,overviewHealthDetail,200,OK,Thread Group 1-1,text,true,,1885,1093,1,1,https://ncds-selfcheck.buddy-care.org/api/v1/overviews/overviewHealthDetail?year=2025&month=2&type=target-weight,483,0,384
