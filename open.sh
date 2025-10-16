@@ -4,9 +4,9 @@
 ##########################################################################
 ##########################################################################
 ##########################################################################
-                     API="1_CreateAssessment" 
+                     API="6_OverviewHealthDetail" 
                      google_sheet="https://docs.google.com/spreadsheets/d/1mcL7CWvV3yy6azDR7uobmzn8ltjoebNnNIxFOttZBeo/edit?gid=918365567#gid=918365567" 
-                     id="1"                 #เปลี่ยน id ทุกครั้งที่ยิง
+                     id="999"                 #เปลี่ยน id ทุกครั้งที่ยิง
                      user="1";              #จำนวนผู้ใช้งาน
                      duration="1";          #หน่วยวินาที
                      status="normal"        #พิมพ์คำว่า "normal" เพื่อยิงโหลดเเละ upload report ไปที่ sheet
